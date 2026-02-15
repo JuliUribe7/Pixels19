@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juliana Uribe
 - 🌱 I’m currently learning SQL 
-- 📫 How to reach me jutirado2004@gmail.com
+- 📫 How to reach me juliuribe704@gmail.com
 - 🛩️ Follow me on my LinkedIn www.linkedin.com/in/juliana-uribe7
   
 
